@@ -1,3 +1,7 @@
+// NIM   : 10119033
+// Nama  : Dandi Ahmadin
+// Kelas : IF-1
+
 package com.dandiahmadin.notesapp;
 
 import androidx.appcompat.app.AppCompatActivity;
